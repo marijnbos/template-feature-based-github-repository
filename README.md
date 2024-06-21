@@ -21,7 +21,7 @@ This template repo does not have any pre-defined GitHub actions to ensure that i
 ### Documentation
 
 This repo has 3 main features:
-* protected main branch: 
+* protected main branch and proctected development branch set as the 'main' target branch 
 * Stale issues, pull request action
 * Welcome message action, to greet new users
 
